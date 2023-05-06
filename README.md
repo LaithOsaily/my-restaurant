@@ -122,4 +122,3 @@ Salad
 
 [<kbd>reign.COM</kbd>](https://www.reigntoronto.ca/)
 
-##Welocme to ASAC
