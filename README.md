@@ -106,7 +106,7 @@ Salad
 | ------------- |:-------------:
 |   Sundays   |  9:00am - 12:00am 
 |   Monday   |      9:00am - 12:00am 
-| Tuesday |      9:00am - 12:00am 
+| Tuesday |      9:00am - 12:00am ~
 |Wednesday  |      9:00am - 12:00am 
 | Thursday  |      9:00am - 12:00am 
 | Friday   |      9:00am - 12:00am 
@@ -122,4 +122,4 @@ Salad
 
 [<kbd>reign.COM</kbd>](https://www.reigntoronto.ca/)
 
-#vevevev
+##Welocme to ASAC
