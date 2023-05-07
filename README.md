@@ -8,7 +8,7 @@
 
   <h3 align="center"> 
 
-
+Reign is a combination bakery, cafe and restaurant situated inside the historic Fairmont Royal York.
 
  </h3> 
 
@@ -21,10 +21,10 @@
 
 <h3 align="center"> 
 
-Reign is a combination bakery, cafe and restaurant situated inside the historic Fairmont Royal York.
+
 
 As the name implies, the venue is meant to have a regal feel, like that of a private party at a noble manor house. </h3> 
-#
+
 
 ![La Belle Epoque](https://media.blogto.com/listings/20190716-Reign20.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70 )
 
@@ -32,27 +32,24 @@ As the name implies, the venue is meant to have a regal feel, like that of a pri
 
 ## Popular dishes
 
-<table>
-<tr>
-<td width="34%">
+
 
 ![La Belle Epoque](https://resizer.otstatic.com/v2/photos/wide-large/1/49209007.jpg )
+
 Cape d'Or Salmon
-</td>
-<td width="33%">
+
 
 
 ![La Belle Epoque](https://resizer.otstatic.com/v2/photos/wide-large/1/46835737.jpg )
+
 Steak Tartare
-</td>
-<td width="33%">
+
 
 
 ![La Belle Epoque](https://resizer.otstatic.com/v2/photos/wide-large/1/42899162.jpg)
+
 Salad
-</td>
-</tr>
-</table>
+
 
 
 
@@ -65,7 +62,9 @@ Salad
 <h3 align="center"> 
 
 
-*Reign also provides an area for buffet-style breakfast in the morning.*
+Reign also provides an area for buffet-style breakfast in the morning.
+
+
  </h3> 
 
 
@@ -78,25 +77,16 @@ Salad
 
 
 
-<table>
-<tr>
 
-
-</td>
-<td width="33%">
 
 
 ![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/12/RP-A3-AllDay-Dec2022-2_web.jpg)
 
-</td>
-<td width="36.5%">
 
 
 ![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/07/6DRINKS.nonalchs.july_.jpg)
 
-</td>
-</tr>
-</table>
+
 
 
 
