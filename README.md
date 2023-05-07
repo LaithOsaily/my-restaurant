@@ -24,7 +24,7 @@ Reign is a combination bakery, cafe and restaurant situated inside the historic 
 
 
 As the name implies, the venue is meant to have a regal feel, like that of a private party at a noble manor house. </h3> 
-#
+
 
 ![La Belle Epoque](https://media.blogto.com/listings/20190716-Reign20.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70 )
 
@@ -77,12 +77,12 @@ Reign also provides an area for buffet-style breakfast in the morning.
 
 
 
-![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/12/RP-A3-AllDay-Dec2022-2_web.jpg)
+![La Belle Epoque](https://cdn6.picryl.com/photo/1949/12/31/the-waldorf-astoria-22a27c-1024.jpg)
 
 
 
 
-![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/07/6DRINKS.nonalchs.july_.jpg)
+
 
 
 
