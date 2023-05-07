@@ -80,11 +80,10 @@ Reign also provides an area for buffet-style breakfast in the morning.
 
 
 
-![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/12/RP-A3-AllDay-Dec2022-2_web.jpg)
+![La Belle Epoque](https://cdn6.picryl.com/photo/1949/12/31/the-waldorf-astoria-22a27c-1024.jpg)
 
 
 
-![La Belle Epoque](https://www.reignandpour.co.nz/wp-content/uploads/2022/07/6DRINKS.nonalchs.july_.jpg)
 
 
 
