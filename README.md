@@ -55,6 +55,9 @@ Salad
 
 
 
+
+
+
 <img src="https://media.blogto.com/uploads/2019/07/26/1564155291-20190716-Reign21.jpg?w=1400&cmd=resize&height=2500&quality=70" alt="Alt text" align="right">    
 
 
@@ -63,6 +66,9 @@ Salad
 
 
 Reign also provides an area for buffet-style breakfast in the morning.
+
+
+
 
 
  </h3> 
@@ -77,6 +83,12 @@ Reign also provides an area for buffet-style breakfast in the morning.
 
 
 
+
+
+
+
+
+![La Belle Epoque](https://cdn6.picryl.com/photo/1949/12/31/the-waldorf-astoria-22a27c-1024.jpg)
 
 
 
